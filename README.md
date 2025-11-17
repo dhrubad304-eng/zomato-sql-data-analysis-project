@@ -59,9 +59,8 @@ Relationships:
 3. Execute the EDA and analytical queries section to view insights.
 4. Modify or extend the queries for deeper analysis if required.
 
-## Use Case
-This project can be used for:
-- SQL learning and practice
-- Portfolio and GitHub showcase
-- Business analysis demonstrations
-- Interview preparation
+## **Author & Contact**
+- Dhruba Debnath
+- EX - BDA-(DATA) at Urban Company | MBA in Marketing 
+- Email: dhrubad304@gmail.com
+- LinkedIn: https://www.linkedin.com/in/dhruba-debnath/?skipRedirect=true
