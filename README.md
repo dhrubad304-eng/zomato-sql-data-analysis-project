@@ -1,31 +1,29 @@
-# zomato-sql-data-analysis-project
-A complete SQL case study on Zomato-style food delivery data,  includes database design, EDA, and 12 advanced business analysis queries.
+# Zomato SQL Data Analysis Project
 
 This project is a complete SQL case study built on a Zomato-like food delivery dataset.  
-It includes database creation, EDA, and business-focused analytical queries.
+It includes database creation, exploratory data analysis (EDA), and business-focused analytical queries.
 
 ## Project Highlights
 - Designed 5 relational tables (customers, restaurants, orders, riders, deliveries)
-- Added foreign key relationships for clean data modelling
-- Performed EDA using simple SELECT queries
-- Solved 12 real-world analytics questions
+- Added foreign key relationships for structured relational modelling
+- Performed EDA using essential SELECT queries
+- Solved 12 practical, business-driven analytics questions
 
 ## Key Analysis Performed
-- Top dishes ordered by customers
-- Popular time slots (2-hour intervals)
-- Average Order Value (AOV) analysis
-- City-wise restaurant revenue leaders
-- Customer retention (month-over-month)
-- Rider delivery success rates
-- Restaurant loyalty and customer behavior
-- Delivered order revenue (last 6 months)
+- Most frequently ordered dishes by customers
+- Popular time slots across 2-hour intervals
+- Average Order Value (AOV) analysis for high-order customers
+- Top revenue-generating restaurants by city
+- Month-over-month customer retention analysis
+- Rider-wise delivery success rates
+- Customer loyalty insights for each restaurant
+- Revenue analysis for delivered orders in the last 6 months
 
 ## Files Included
-- `zomato_analysis.sql` → Complete SQL script (DDL + EDA + analysis queries)
+- `zomato_analysis.sql` – Complete SQL script (DDL, EDA, analytical queries)
 
 ## Tech Used
-- SQL (PostgreSQL-style queries)
+- SQL (PostgreSQL-style analytical functions)
 
 ## How to Use
-Run the script in any SQL environment that supports analytical functions (PostgreSQL, MySQL 8+, etc.)
-
+Run the SQL script in any SQL environment that supports window functions and analytical queries such as PostgreSQL or MySQL 8 and above.
